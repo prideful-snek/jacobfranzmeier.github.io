@@ -1,0 +1,802 @@
+pokedex_number,name,japanese_name,classfication,type1,type2,height_m,weight_kg,generation,is_legendary
+1,Bulbasaur,Fushigidane,Seed Pokemon,grass,poison,0.7,6.9,1,0
+2,Ivysaur,Fushigisou,Seed Pokemon,grass,poison,1,13,1,0
+3,Venusaur,Fushigibana,Seed Pokemon,grass,poison,2,100,1,0
+4,Charmander,Hitokage,Lizard Pokemon,fire,,0.6,8.5,1,0
+5,Charmeleon,Lizardo,Flame Pokemon,fire,,1.1,19,1,0
+6,Charizard,Lizardon,Flame Pokemon,fire,flying,1.7,90.5,1,0
+7,Squirtle,Zenigame,Tiny Turtle Pokemon,water,,0.5,9,1,0
+8,Wartortle,Kameil,Turtle Pokemon,water,,1,22.5,1,0
+9,Blastoise,Kamex,Shellfish Pokemon,water,,1.6,85.5,1,0
+10,Caterpie,Caterpie,Worm Pokemon,bug,,0.3,2.9,1,0
+11,Metapod,Transel,Cocoon Pokemon,bug,,0.7,9.9,1,0
+12,Butterfree,Butterfree,Butterfly Pokemon,bug,flying,1.1,32,1,0
+13,Weedle,Beedle,Hairy Pokemon,bug,poison,0.3,3.2,1,0
+14,Kakuna,Cocoon,Cocoon Pokemon,bug,poison,0.6,10,1,0
+15,Beedrill,Spear,Poison Bee Pokemon,bug,poison,1,29.5,1,0
+16,Pidgey,Poppo,Tiny Bird Pokemon,normal,flying,0.3,1.8,1,0
+17,Pidgeotto,Pigeon,Bird Pokemon,normal,flying,1.1,30,1,0
+18,Pidgeot,Pigeot,Bird Pokemon,normal,flying,1.5,39.5,1,0
+19,Rattata,Koratta,Mouse Pokemon,normal,dark,,,1,0
+20,Raticate,Ratta,Mouse Pokemon,normal,dark,,,1,0
+21,Spearow,Onisuzume,Tiny Bird Pokemon,normal,flying,0.3,2,1,0
+22,Fearow,Onidrill,Beak Pokemon,normal,flying,1.2,38,1,0
+23,Ekans,Arbo,Snake Pokemon,poison,,2,6.9,1,0
+24,Arbok,Arbok,Cobra Pokemon,poison,,3.5,65,1,0
+25,Pikachu,Pikachu,Mouse Pokemon,electric,,0.4,6,1,0
+26,Raichu,Raichu,Mouse Pokemon,electric,electric,,,1,0
+27,Sandshrew,Sand,Mouse Pokemon,ground,ice,,,1,0
+28,Sandslash,Sandpan,Mouse Pokemon,ground,ice,,,1,0
+29,Nidoran♀,Nidoran?,Poison Pin Pokemon,poison,,0.4,7,1,0
+30,Nidorina,Nidorina,Poison Pin Pokemon,poison,,0.8,20,1,0
+31,Nidoqueen,Nidoqueen,Drill Pokemon,poison,ground,1.3,60,1,0
+32,Nidoran♂,Nidoran?,Poison Pin Pokemon,poison,,0.5,9,1,0
+33,Nidorino,Nidorino,Poison Pin Pokemon,poison,,0.9,19.5,1,0
+34,Nidoking,Nidoking,Drill Pokemon,poison,ground,1.4,62,1,0
+35,Clefairy,Pippi,Fairy Pokemon,fairy,,0.6,7.5,1,0
+36,Clefable,Pixy,Fairy Pokemon,fairy,,1.3,40,1,0
+37,Vulpix,Rokon,Fox Pokemon,fire,ice,,,1,0
+38,Ninetales,Kyukon,Fox Pokemon,fire,ice,,,1,0
+39,Jigglypuff,Purin,Balloon Pokemon,normal,fairy,0.5,5.5,1,0
+40,Wigglytuff,Pukurin,Balloon Pokemon,normal,fairy,1,12,1,0
+41,Zubat,Zubat,Bat Pokemon,poison,flying,0.8,7.5,1,0
+42,Golbat,Golbat,Bat Pokemon,poison,flying,1.6,55,1,0
+43,Oddish,Nazonokusa,Weed Pokemon,grass,poison,0.5,5.4,1,0
+44,Gloom,Kusaihana,Weed Pokemon,grass,poison,0.8,8.6,1,0
+45,Vileplume,Ruffresia,Flower Pokemon,grass,poison,1.2,18.6,1,0
+46,Paras,Paras,Mushroom Pokemon,bug,grass,0.3,5.4,1,0
+47,Parasect,Parasect,Mushroom Pokemon,bug,grass,1,29.5,1,0
+48,Venonat,Kongpang,Insect Pokemon,bug,poison,1,30,1,0
+49,Venomoth,Morphon,Poison Moth Pokemon,bug,poison,1.5,12.5,1,0
+50,Diglett,Digda,Mole Pokemon,ground,ground,,,1,0
+51,Dugtrio,Dugtrio,Mole Pokemon,ground,ground,,,1,0
+52,Meowth,Nyarth,Scratch Cat Pokemon,normal,dark,,,1,0
+53,Persian,Persian,Classy Cat Pokemon,normal,dark,,,1,0
+54,Psyduck,Koduck,Duck Pokemon,water,,0.8,19.6,1,0
+55,Golduck,Golduck,Duck Pokemon,water,,1.7,76.6,1,0
+56,Mankey,Mankey,Pig Monkey Pokemon,fighting,,0.5,28,1,0
+57,Primeape,Okorizaru,Pig Monkey Pokemon,fighting,,1,32,1,0
+58,Growlithe,Gardie,Puppy Pokemon,fire,,0.7,19,1,0
+59,Arcanine,Windie,Legendary Pokemon,fire,,1.9,155,1,0
+60,Poliwag,Nyoromo,Tadpole Pokemon,water,,0.6,12.4,1,0
+61,Poliwhirl,Nyorozo,Tadpole Pokemon,water,,1,20,1,0
+62,Poliwrath,Nyorobon,Tadpole Pokemon,water,fighting,1.3,54,1,0
+63,Abra,Casey,Psi Pokemon,psychic,,0.9,19.5,1,0
+64,Kadabra,Yungerer,Psi Pokemon,psychic,,1.3,56.5,1,0
+65,Alakazam,Foodin,Psi Pokemon,psychic,,1.5,48,1,0
+66,Machop,Wanriky,Superpower Pokemon,fighting,,0.8,19.5,1,0
+67,Machoke,Goriky,Superpower Pokemon,fighting,,1.5,70.5,1,0
+68,Machamp,Kairiky,Superpower Pokemon,fighting,,1.6,130,1,0
+69,Bellsprout,Madatsubomi,Flower Pokemon,grass,poison,0.7,4,1,0
+70,Weepinbell,Utsudon,Flycatcher Pokemon,grass,poison,1,6.4,1,0
+71,Victreebel,Utsubot,Flycatcher Pokemon,grass,poison,1.7,15.5,1,0
+72,Tentacool,Menokurage,Jellyfish Pokemon,water,poison,0.9,45.5,1,0
+73,Tentacruel,Dokukurage,Jellyfish Pokemon,water,poison,1.6,55,1,0
+74,Geodude,Isitsubute,Rock Pokemon,rock,ground,,,1,0
+75,Graveler,Golone,Rock Pokemon,rock,ground,,,1,0
+76,Golem,Golonya,Megaton Pokemon,rock,ground,,,1,0
+77,Ponyta,Ponyta,Fire Horse Pokemon,fire,,1,30,1,0
+78,Rapidash,Gallop,Fire Horse Pokemon,fire,,1.7,95,1,0
+79,Slowpoke,Yadon,Dopey Pokemon,water,psychic,1.2,36,1,0
+80,Slowbro,Yadoran,Hermit Crab Pokemon,water,psychic,1.6,78.5,1,0
+81,Magnemite,Coil,Magnet Pokemon,electric,steel,0.3,6,1,0
+82,Magneton,Rarecoil,Magnet Pokemon,electric,steel,1,60,1,0
+83,Farfetch'd,Kamonegi,Wild Duck Pokemon,normal,flying,0.8,15,1,0
+84,Doduo,Dodo,Twin Bird Pokemon,normal,flying,1.4,39.2,1,0
+85,Dodrio,Dodorio,Triple Bird Pokemon,normal,flying,1.8,85.2,1,0
+86,Seel,Pawou,Sea Lion Pokemon,water,,1.1,90,1,0
+87,Dewgong,Jugon,Sea Lion Pokemon,water,ice,1.7,120,1,0
+88,Grimer,Betbeter,Sludge Pokemon,poison,poison,,,1,0
+89,Muk,Betbeton,Sludge Pokemon,poison,poison,,,1,0
+90,Shellder,Shellder,Bivalve Pokemon,water,,0.3,4,1,0
+91,Cloyster,Parshen,Bivalve Pokemon,water,ice,1.5,132.5,1,0
+92,Gastly,Ghos,Gas Pokemon,ghost,poison,1.3,0.1,1,0
+93,Haunter,Ghost,Gas Pokemon,ghost,poison,1.6,0.1,1,0
+94,Gengar,Gangar,Shadow Pokemon,ghost,poison,1.5,40.5,1,0
+95,Onix,Iwark,Rock Snake Pokemon,rock,ground,8.8,210,1,0
+96,Drowzee,Sleepe,Hypnosis Pokemon,psychic,,1,32.4,1,0
+97,Hypno,Sleeper,Hypnosis Pokemon,psychic,,1.6,75.6,1,0
+98,Krabby,Crab,River Crab Pokemon,water,,0.4,6.5,1,0
+99,Kingler,Kingler,Pincer Pokemon,water,,1.3,60,1,0
+100,Voltorb,Biriridama,Ball Pokemon,electric,,0.5,10.4,1,0
+101,Electrode,Marumine,Ball Pokemon,electric,,1.2,66.6,1,0
+102,Exeggcute,Tamatama,Egg Pokemon,grass,psychic,0.4,2.5,1,0
+103,Exeggutor,Nassy,Coconut Pokemon,grass,psychic,,,1,0
+104,Cubone,Karakara,Lonely Pokemon,ground,,0.4,6.5,1,0
+105,Marowak,Garagara,Bone Keeper Pokemon,ground,fire,,,1,0
+106,Hitmonlee,Sawamular,Kicking Pokemon,fighting,,1.5,49.8,1,0
+107,Hitmonchan,Ebiwalar,Punching Pokemon,fighting,,1.4,50.2,1,0
+108,Lickitung,Beroringa,Licking Pokemon,normal,,1.2,65.5,1,0
+109,Koffing,Dogars,Poison Gas Pokemon,poison,,0.6,1,1,0
+110,Weezing,Matadogas,Poison Gas Pokemon,poison,,1.2,9.5,1,0
+111,Rhyhorn,Sihorn,Spikes Pokemon,ground,rock,1,115,1,0
+112,Rhydon,Sidon,Drill Pokemon,ground,rock,1.9,120,1,0
+113,Chansey,Lucky,Egg Pokemon,normal,,1.1,34.6,1,0
+114,Tangela,Monjara,Vine Pokemon,grass,,1,35,1,0
+115,Kangaskhan,Garura,Parent Pokemon,normal,,2.2,80,1,0
+116,Horsea,Tattu,Dragon Pokemon,water,,0.4,8,1,0
+117,Seadra,Seadra,Dragon Pokemon,water,,1.2,25,1,0
+118,Goldeen,Tosakinto,Goldfish Pokemon,water,,0.6,15,1,0
+119,Seaking,Azumao,Goldfish Pokemon,water,,1.3,39,1,0
+120,Staryu,Hitodeman,Starshape Pokemon,water,,0.8,34.5,1,0
+121,Starmie,Starmie,Mysterious Pokemon,water,psychic,1.1,80,1,0
+122,Mr. Mime,Barrierd,Barrier Pokemon,psychic,fairy,1.3,54.5,1,0
+123,Scyther,Strike,Mantis Pokemon,bug,flying,1.5,56,1,0
+124,Jynx,Rougela,Humanshape Pokemon,ice,psychic,1.4,40.6,1,0
+125,Electabuzz,Eleboo,Electric Pokemon,electric,,1.1,30,1,0
+126,Magmar,Boober,Spitfire Pokemon,fire,,1.3,44.5,1,0
+127,Pinsir,Kailios,Stagbeetle Pokemon,bug,,1.5,55,1,0
+128,Tauros,Kentauros,Wild Bull Pokemon,normal,,1.4,88.4,1,0
+129,Magikarp,Koiking,Fish Pokemon,water,,0.9,10,1,0
+130,Gyarados,Gyarados,Atrocious Pokemon,water,flying,6.5,235,1,0
+131,Lapras,Laplace,Transport Pokemon,water,ice,2.5,220,1,0
+132,Ditto,Metamon,Transform Pokemon,normal,,0.3,4,1,0
+133,Eevee,Eievui,Evolution Pokemon,normal,,0.3,6.5,1,0
+134,Vaporeon,Showers,Bubble Jet Pokemon,water,,1,29,1,0
+135,Jolteon,Thunders,Lightning Pokemon,electric,,0.8,24.5,1,0
+136,Flareon,Booster,Flame Pokemon,fire,,0.9,25,1,0
+137,Porygon,Porygon,Virtual Pokemon,normal,,0.8,36.5,1,0
+138,Omanyte,Omnite,Spiral Pokemon,rock,water,0.4,7.5,1,0
+139,Omastar,Omstar,Spiral Pokemon,rock,water,1,35,1,0
+140,Kabuto,Kabuto,Shellfish Pokemon,rock,water,0.5,11.5,1,0
+141,Kabutops,Kabutops,Shellfish Pokemon,rock,water,1.3,40.5,1,0
+142,Aerodactyl,Ptera,Fossil Pokemon,rock,flying,1.8,59,1,0
+143,Snorlax,Kabigon,Sleeping Pokemon,normal,,2.1,460,1,0
+144,Articuno,Freezer,Freeze Pokemon,ice,flying,1.7,55.4,1,1
+145,Zapdos,Thunder,Electric Pokemon,electric,flying,1.6,52.6,1,1
+146,Moltres,Fire,Flame Pokemon,fire,flying,2,60,1,1
+147,Dratini,Miniryu,Dragon Pokemon,dragon,,1.8,3.3,1,0
+148,Dragonair,Hakuryu,Dragon Pokemon,dragon,,4,16.5,1,0
+149,Dragonite,Kairyu,Dragon Pokemon,dragon,flying,2.2,210,1,0
+150,Mewtwo,Mewtwo,Genetic Pokemon,psychic,,2,122,1,1
+151,Mew,Mew,New Species Pokemon,psychic,,0.4,4,1,1
+152,Chikorita,Chicorita,Leaf Pokemon,grass,,0.9,6.4,2,0
+153,Bayleef,Bayleaf,Leaf Pokemon,grass,,1.2,15.8,2,0
+154,Meganium,Meganium,Herb Pokemon,grass,,1.8,100.5,2,0
+155,Cyndaquil,Hinoarashi,Fire Mouse Pokemon,fire,,0.5,7.9,2,0
+156,Quilava,Magmarashi,Volcano Pokemon,fire,,0.9,19,2,0
+157,Typhlosion,Bakphoon,Volcano Pokemon,fire,,1.7,79.5,2,0
+158,Totodile,Waninoko,Big Jaw Pokemon,water,,0.6,9.5,2,0
+159,Croconaw,Alligates,Big Jaw Pokemon,water,,1.1,25,2,0
+160,Feraligatr,Ordile,Big Jaw Pokemon,water,,2.3,88.8,2,0
+161,Sentret,Otachi,Scout Pokemon,normal,,0.8,6,2,0
+162,Furret,Ootachi,Long Body Pokemon,normal,,1.8,32.5,2,0
+163,Hoothoot,Hoho,Owl Pokemon,normal,flying,0.7,21.2,2,0
+164,Noctowl,Yorunozuku,Owl Pokemon,normal,flying,1.6,40.8,2,0
+165,Ledyba,Rediba,Five Star Pokemon,bug,flying,1,10.8,2,0
+166,Ledian,Redian,Five Star Pokemon,bug,flying,1.4,35.6,2,0
+167,Spinarak,Itomaru,String Spit Pokemon,bug,poison,0.5,8.5,2,0
+168,Ariados,Ariados,Long Leg Pokemon,bug,poison,1.1,33.5,2,0
+169,Crobat,Crobat,Bat Pokemon,poison,flying,1.8,75,2,0
+170,Chinchou,Chonchie,Angler Pokemon,water,electric,0.5,12,2,0
+171,Lanturn,Lantern,Light Pokemon,water,electric,1.2,22.5,2,0
+172,Pichu,Pichu,Tiny Mouse Pokemon,electric,,0.3,2,2,0
+173,Cleffa,Py,Star Shape Pokemon,fairy,,0.3,3,2,0
+174,Igglybuff,Pupurin,Balloon Pokemon,normal,fairy,0.3,1,2,0
+175,Togepi,Togepy,Spike Ball Pokemon,fairy,,0.3,1.5,2,0
+176,Togetic,Togechick,Happiness Pokemon,fairy,flying,0.6,3.2,2,0
+177,Natu,Naty,Little Bird Pokemon,psychic,flying,0.2,2,2,0
+178,Xatu,Natio,Mystic Pokemon,psychic,flying,1.5,15,2,0
+179,Mareep,Merriep,Wool Pokemon,electric,,0.6,7.8,2,0
+180,Flaaffy,Mokoko,Wool Pokemon,electric,,0.8,13.3,2,0
+181,Ampharos,Denryu,Light Pokemon,electric,,1.4,61.5,2,0
+182,Bellossom,Kireihana,Flower Pokemon,grass,,0.4,5.8,2,0
+183,Marill,Maril,Aquamouse Pokemon,water,fairy,0.4,8.5,2,0
+184,Azumarill,Marilli,Aquarabbit Pokemon,water,fairy,0.8,28.5,2,0
+185,Sudowoodo,Usokkie,Imitation Pokemon,rock,,1.2,38,2,0
+186,Politoed,Nyorotono,Frog Pokemon,water,,1.1,33.9,2,0
+187,Hoppip,Hanecco,Cottonweed Pokemon,grass,flying,0.4,0.5,2,0
+188,Skiploom,Popocco,Cottonweed Pokemon,grass,flying,0.6,1,2,0
+189,Jumpluff,Watacco,Cottonweed Pokemon,grass,flying,0.8,3,2,0
+190,Aipom,Eipam,Long Tail Pokemon,normal,,0.8,11.5,2,0
+191,Sunkern,Himanuts,Seed Pokemon,grass,,0.3,1.8,2,0
+192,Sunflora,Kimawari,Sun Pokemon,grass,,0.8,8.5,2,0
+193,Yanma,Yanyanma,Clear Wing Pokemon,bug,flying,1.2,38,2,0
+194,Wooper,Upah,Water Fish Pokemon,water,ground,0.4,8.5,2,0
+195,Quagsire,Nuoh,Water Fish Pokemon,water,ground,1.4,75,2,0
+196,Espeon,Eifie,Sun Pokemon,psychic,,0.9,26.5,2,0
+197,Umbreon,Blacky,Moonlight Pokemon,dark,,1,27,2,0
+198,Murkrow,Yamikarasu,Darkness Pokemon,dark,flying,0.5,2.1,2,0
+199,Slowking,Yadoking,Royal Pokemon,water,psychic,2,79.5,2,0
+200,Misdreavus,Muma,Screech Pokemon,ghost,,0.7,1,2,0
+201,Unown,Unknown,Symbol Pokemon,psychic,,0.5,5,2,0
+202,Wobbuffet,Sonans,Patient Pokemon,psychic,,1.3,28.5,2,0
+203,Girafarig,Kirinriki,Long Neck Pokemon,normal,psychic,1.5,41.5,2,0
+204,Pineco,Kunugidama,Bagworm Pokemon,bug,,0.6,7.2,2,0
+205,Forretress,Foretos,Bagworm Pokemon,bug,steel,1.2,125.8,2,0
+206,Dunsparce,Nokocchi,Land Snake Pokemon,normal,,1.5,14,2,0
+207,Gligar,Gliger,Flyscorpion Pokemon,ground,flying,1.1,64.8,2,0
+208,Steelix,Haganeil,Iron Snake Pokemon,steel,ground,9.2,400,2,0
+209,Snubbull,Bulu,Fairy Pokemon,fairy,,0.6,7.8,2,0
+210,Granbull,Granbulu,Fairy Pokemon,fairy,,1.4,48.7,2,0
+211,Qwilfish,Harysen,Balloon Pokemon,water,poison,0.5,3.9,2,0
+212,Scizor,Hassam,Pincer Pokemon,bug,steel,1.8,118,2,0
+213,Shuckle,Tsubotsubo,Mold Pokemon,bug,rock,0.6,20.5,2,0
+214,Heracross,Heracros,Singlehorn Pokemon,bug,fighting,1.5,54,2,0
+215,Sneasel,Nyula,Sharp Claw Pokemon,dark,ice,0.9,28,2,0
+216,Teddiursa,Himeguma,Little Bear Pokemon,normal,,0.6,8.8,2,0
+217,Ursaring,Ringuma,Hibernator Pokemon,normal,,1.8,125.8,2,0
+218,Slugma,Magmag,Lava Pokemon,fire,,0.7,35,2,0
+219,Magcargo,Magcargot,Lava Pokemon,fire,rock,0.8,55,2,0
+220,Swinub,Urimoo,Pig Pokemon,ice,ground,0.4,6.5,2,0
+221,Piloswine,Inomoo,Swine Pokemon,ice,ground,1.1,55.8,2,0
+222,Corsola,Sunnygo,Coral Pokemon,water,rock,0.6,5,2,0
+223,Remoraid,Teppouo,Jet Pokemon,water,,0.6,12,2,0
+224,Octillery,Okutank,Jet Pokemon,water,,0.9,28.5,2,0
+225,Delibird,Delibird,Delivery Pokemon,ice,flying,0.9,16,2,0
+226,Mantine,Mantain,Kite Pokemon,water,flying,2.1,220,2,0
+227,Skarmory,Airmd,Armor Bird Pokemon,steel,flying,1.7,50.5,2,0
+228,Houndour,Delvil,Dark Pokemon,dark,fire,0.6,10.8,2,0
+229,Houndoom,Hellgar,Dark Pokemon,dark,fire,1.4,35,2,0
+230,Kingdra,Kingdra,Dragon Pokemon,water,dragon,1.8,152,2,0
+231,Phanpy,Gomazou,Long Nose Pokemon,ground,,0.5,33.5,2,0
+232,Donphan,Donfan,Armor Pokemon,ground,,1.1,120,2,0
+233,Porygon2,Porygon2,Virtual Pokemon,normal,,0.6,32.5,2,0
+234,Stantler,Odoshishi,Big Horn Pokemon,normal,,1.4,71.2,2,0
+235,Smeargle,Doble,Painter Pokemon,normal,,1.2,58,2,0
+236,Tyrogue,Balkie,Scuffle Pokemon,fighting,,0.7,21,2,0
+237,Hitmontop,Kapoerer,Handstand Pokemon,fighting,,1.4,48,2,0
+238,Smoochum,Muchul,Kiss Pokemon,ice,psychic,0.4,6,2,0
+239,Elekid,Elekid,Electric Pokemon,electric,,0.6,23.5,2,0
+240,Magby,Buby,Live Coal Pokemon,fire,,0.7,21.4,2,0
+241,Miltank,Miltank,Milk Cow Pokemon,normal,,1.2,75.5,2,0
+242,Blissey,Happinas,Happiness Pokemon,normal,,1.5,46.8,2,0
+243,Raikou,Raikou,Thunder Pokemon,electric,,1.9,178,2,1
+244,Entei,Entei,Volcano Pokemon,fire,,2.1,198,2,1
+245,Suicune,Suicune,Aurora Pokemon,water,,2,187,2,1
+246,Larvitar,Yogiras,Rock Skin Pokemon,rock,ground,0.6,72,2,0
+247,Pupitar,Sanagiras,Hard Shell Pokemon,rock,ground,1.2,152,2,0
+248,Tyranitar,Bangiras,Armor Pokemon,rock,dark,2,202,2,0
+249,Lugia,Lugia,Diving Pokemon,psychic,flying,5.2,216,2,1
+250,Ho-Oh,Houou,Rainbow Pokemon,fire,flying,3.8,199,2,1
+251,Celebi,Celebi,Time Travel Pokemon,psychic,grass,0.6,5,2,1
+252,Treecko,Kimori,Wood Gecko Pokemon,grass,,0.5,5,3,0
+253,Grovyle,Juptile,Wood Gecko Pokemon,grass,,0.9,21.6,3,0
+254,Sceptile,Jukain,Forest Pokemon,grass,,1.7,52.2,3,0
+255,Torchic,Achamo,Chick Pokemon,fire,,0.4,2.5,3,0
+256,Combusken,Wakasyamo,Young Fowl Pokemon,fire,fighting,0.9,19.5,3,0
+257,Blaziken,Bursyamo,Blaze Pokemon,fire,fighting,1.9,52,3,0
+258,Mudkip,Mizugorou,Mud Fish Pokemon,water,,0.4,7.6,3,0
+259,Marshtomp,Numacraw,Mud Fish Pokemon,water,ground,0.7,28,3,0
+260,Swampert,Laglarge,Mud Fish Pokemon,water,ground,1.5,81.9,3,0
+261,Poochyena,Pochiena,Bite Pokemon,dark,,0.5,13.6,3,0
+262,Mightyena,Graena,Bite Pokemon,dark,,1,37,3,0
+263,Zigzagoon,Jiguzaguma,Tiny Racoon Pokemon,normal,,0.4,17.5,3,0
+264,Linoone,Massuguma,Rush Pokemon,normal,,0.5,32.5,3,0
+265,Wurmple,Kemusso,Worm Pokemon,bug,,0.3,3.6,3,0
+266,Silcoon,Karasalis,Cocoon Pokemon,bug,,0.6,10,3,0
+267,Beautifly,Agehunt,Butterfly Pokemon,bug,flying,1,28.4,3,0
+268,Cascoon,Mayuld,Cocoon Pokemon,bug,,0.7,11.5,3,0
+269,Dustox,Dokucale,Poison Moth Pokemon,bug,poison,1.2,31.6,3,0
+270,Lotad,Hassboh,Water Weed Pokemon,water,grass,0.5,2.6,3,0
+271,Lombre,Hasubrero,Jolly Pokemon,water,grass,1.2,32.5,3,0
+272,Ludicolo,Runpappa,Carefree Pokemon,water,grass,1.5,55,3,0
+273,Seedot,Taneboh,Acorn Pokemon,grass,,0.5,4,3,0
+274,Nuzleaf,Konohana,Wily Pokemon,grass,dark,1,28,3,0
+275,Shiftry,Dirteng,Wickid Pokemon,grass,dark,1.3,59.6,3,0
+276,Taillow,Subame,TinySwallow Pokemon,normal,flying,0.3,2.3,3,0
+277,Swellow,Ohsubame,Swallow Pokemon,normal,flying,0.7,19.8,3,0
+278,Wingull,Camome,Seagull Pokemon,water,flying,0.6,9.5,3,0
+279,Pelipper,Pelipper,Water Bird Pokemon,water,flying,1.2,28,3,0
+280,Ralts,Ralts,Feeling Pokemon,psychic,fairy,0.4,6.6,3,0
+281,Kirlia,Kirlia,Emotion Pokemon,psychic,fairy,0.8,20.2,3,0
+282,Gardevoir,Sirnight,Embrace Pokemon,psychic,fairy,1.6,48.4,3,0
+283,Surskit,Ametama,Pond Skater Pokemon,bug,water,0.5,1.7,3,0
+284,Masquerain,Amemoth,Eyeball Pokemon,bug,flying,0.8,3.6,3,0
+285,Shroomish,Kinococo,Mushroom Pokemon,grass,,0.4,4.5,3,0
+286,Breloom,Kinogassa,Mushroom Pokemon,grass,fighting,1.2,39.2,3,0
+287,Slakoth,Namakero,Slacker Pokemon,normal,,0.8,24,3,0
+288,Vigoroth,Yarukimono,Wild Monkey Pokemon,normal,,1.4,46.5,3,0
+289,Slaking,Kekking,Lazy Pokemon,normal,,2,130.5,3,0
+290,Nincada,Tutinin,Trainee Pokemon,bug,ground,0.5,5.5,3,0
+291,Ninjask,Tekkanin,Ninja Pokemon,bug,flying,0.8,12,3,0
+292,Shedinja,Nukenin,Shed Pokemon,bug,ghost,0.8,1.2,3,0
+293,Whismur,Gonyonyo,Whisper Pokemon,normal,,0.6,16.3,3,0
+294,Loudred,Dogohmb,Big Voice Pokemon,normal,,1,40.5,3,0
+295,Exploud,Bakuong,Loud Noise Pokemon,normal,,1.5,84,3,0
+296,Makuhita,Makunoshita,Guts Pokemon,fighting,,1,86.4,3,0
+297,Hariyama,Hariteyama,Arm Thrust Pokemon,fighting,,2.3,253.8,3,0
+298,Azurill,Ruriri,Polka Dot Pokemon,normal,fairy,0.2,2,3,0
+299,Nosepass,Nosepass,Compass Pokemon,rock,,1,97,3,0
+300,Skitty,Eneco,Kitten Pokemon,normal,,0.6,11,3,0
+301,Delcatty,Enekororo,Prim Pokemon,normal,,1.1,32.6,3,0
+302,Sableye,Yamirami,Darkness Pokemon,dark,ghost,0.5,11,3,0
+303,Mawile,Kucheat,Deceiver Pokemon,steel,fairy,0.6,11.5,3,0
+304,Aron,Cokodora,Iron Armor Pokemon,steel,rock,0.4,60,3,0
+305,Lairon,Kodora,Iron Armor Pokemon,steel,rock,0.9,120,3,0
+306,Aggron,Bossgodora,Iron Armor Pokemon,steel,rock,2.1,360,3,0
+307,Meditite,Asanan,Meditate Pokemon,fighting,psychic,0.6,11.2,3,0
+308,Medicham,Charem,Meditate Pokemon,fighting,psychic,1.3,31.5,3,0
+309,Electrike,Rakurai,Lightning Pokemon,electric,,0.6,15.2,3,0
+310,Manectric,Livolt,Discharge Pokemon,electric,,1.5,40.2,3,0
+311,Plusle,Prasle,Cheering Pokemon,electric,,0.4,4.2,3,0
+312,Minun,Minun,Cheering Pokemon,electric,,0.4,4.2,3,0
+313,Volbeat,Barubeat,Firefly Pokemon,bug,,0.7,17.7,3,0
+314,Illumise,Illumise,Firefly Pokemon,bug,,0.6,17.7,3,0
+315,Roselia,Roselia,Thorn Pokemon,grass,poison,0.3,2,3,0
+316,Gulpin,Gokulin,Stomach Pokemon,poison,,0.4,10.3,3,0
+317,Swalot,Marunoom,Poison Bag Pokemon,poison,,1.7,80,3,0
+318,Carvanha,Kibanha,Savage Pokemon,water,dark,0.8,20.8,3,0
+319,Sharpedo,Samehader,Brutal Pokemon,water,dark,1.8,88.8,3,0
+320,Wailmer,Hoeruko,Ball Whale Pokemon,water,,2,130,3,0
+321,Wailord,Whaloh,Float Whale Pokemon,water,,14.5,398,3,0
+322,Numel,Donmel,Numb Pokemon,fire,ground,0.7,24,3,0
+323,Camerupt,Bakuuda,Eruption Pokemon,fire,ground,1.9,220,3,0
+324,Torkoal,Cotoise,Coal Pokemon,fire,,0.5,80.4,3,0
+325,Spoink,Baneboo,Bounce Pokemon,psychic,,0.7,30.6,3,0
+326,Grumpig,Boopig,Manipulate Pokemon,psychic,,0.9,71.5,3,0
+327,Spinda,Patcheel,Spot Panda Pokemon,normal,,1.1,5,3,0
+328,Trapinch,Nuckrar,Ant Pit Pokemon,ground,,0.7,15,3,0
+329,Vibrava,Vibrava,Vibration Pokemon,ground,dragon,1.1,15.3,3,0
+330,Flygon,Flygon,Mystic Pokemon,ground,dragon,2,82,3,0
+331,Cacnea,Sabonea,Cactus Pokemon,grass,,0.4,51.3,3,0
+332,Cacturne,Noctus,Scarecrow Pokemon,grass,dark,1.3,77.4,3,0
+333,Swablu,Tyltto,Cotton Bird Pokemon,normal,flying,0.4,1.2,3,0
+334,Altaria,Tyltalis,Humming Pokemon,dragon,flying,1.1,20.6,3,0
+335,Zangoose,Zangoose,Cat Ferret Pokemon,normal,,1.3,40.3,3,0
+336,Seviper,Habunake,Fang Snake Pokemon,poison,,2.7,52.5,3,0
+337,Lunatone,Lunatone,Meteorite Pokemon,rock,psychic,1,168,3,0
+338,Solrock,Solrock,Meteorite Pokemon,rock,psychic,1.2,154,3,0
+339,Barboach,Dojoach,Whiskers Pokemon,water,ground,0.4,1.9,3,0
+340,Whiscash,Namazun,Whiskers Pokemon,water,ground,0.9,23.6,3,0
+341,Corphish,Heigani,Ruffian Pokemon,water,,0.6,11.5,3,0
+342,Crawdaunt,Shizariger,Rogue Pokemon,water,dark,1.1,32.8,3,0
+343,Baltoy,Yajilon,Clay Doll Pokemon,ground,psychic,0.5,21.5,3,0
+344,Claydol,Nendoll,Clay Doll Pokemon,ground,psychic,1.5,108,3,0
+345,Lileep,Lilyla,Sea Lily Pokemon,rock,grass,1,23.8,3,0
+346,Cradily,Yuradle,Barnacle Pokemon,rock,grass,1.5,60.4,3,0
+347,Anorith,Anopth,Old Shrimp Pokemon,rock,bug,0.7,12.5,3,0
+348,Armaldo,Armaldo,Plate Pokemon,rock,bug,1.5,68.2,3,0
+349,Feebas,Hinbass,Fish Pokemon,water,,0.6,7.4,3,0
+350,Milotic,Milokaross,Tender Pokemon,water,,6.2,162,3,0
+351,Castform,Powalen,Weather Pokemon,normal,,0.3,0.8,3,0
+352,Kecleon,Kakureon,Color Swap Pokemon,normal,,1,22,3,0
+353,Shuppet,Kagebouzu,Puppet Pokemon,ghost,,0.6,2.3,3,0
+354,Banette,Juppeta,Marionette Pokemon,ghost,,1.1,12.5,3,0
+355,Duskull,Yomawaru,Requiem Pokemon,ghost,,0.8,15,3,0
+356,Dusclops,Samayouru,Beckon Pokemon,ghost,,1.6,30.6,3,0
+357,Tropius,Tropius,Fruit Pokemon,grass,flying,2,100,3,0
+358,Chimecho,Chirean,Wind Chime Pokemon,psychic,,0.6,1,3,0
+359,Absol,Absol,Disaster Pokemon,dark,,1.2,47,3,0
+360,Wynaut,Sohnano,Bright Pokemon,psychic,,0.6,14,3,0
+361,Snorunt,Yukiwarashi,Snow Hat Pokemon,ice,,0.7,16.8,3,0
+362,Glalie,Onigohri,Face Pokemon,ice,,1.5,256.5,3,0
+363,Spheal,Tamazarashi,Clap Pokemon,ice,water,0.8,39.5,3,0
+364,Sealeo,Todoggler,Ball Roll Pokemon,ice,water,1.1,87.6,3,0
+365,Walrein,Todoseruga,Ice Break Pokemon,ice,water,1.4,150.6,3,0
+366,Clamperl,Pearlulu,Bivalve Pokemon,water,,0.4,52.5,3,0
+367,Huntail,Huntail,Deep Sea Pokemon,water,,1.7,27,3,0
+368,Gorebyss,Sakurabyss,South Sea Pokemon,water,,1.8,22.6,3,0
+369,Relicanth,Glanth,Longevity Pokemon,water,rock,1,23.4,3,0
+370,Luvdisc,Lovecus,Rendezvous Pokemon,water,,0.6,8.7,3,0
+371,Bagon,Tatsubay,Rock Head Pokemon,dragon,,0.6,42.1,3,0
+372,Shelgon,Komoruu,Endurance Pokemon,dragon,,1.1,110.5,3,0
+373,Salamence,Bohmander,Dragon Pokemon,dragon,flying,1.5,102.6,3,0
+374,Beldum,Dumbber,Iron Ball Pokemon,steel,psychic,0.6,95.2,3,0
+375,Metang,Metang,Iron Claw Pokemon,steel,psychic,1.2,202.5,3,0
+376,Metagross,Metagross,Iron Leg Pokemon,steel,psychic,1.6,550,3,0
+377,Regirock,Regirock,Rock Peak Pokemon,rock,,1.7,230,3,1
+378,Regice,Regice,Iceberg Pokemon,ice,,1.8,175,3,1
+379,Registeel,Registeel,Iron Pokemon,steel,,1.9,205,3,1
+380,Latias,Latias,Eon Pokemon,dragon,psychic,1.4,40,3,1
+381,Latios,Latios,Eon Pokemon,dragon,psychic,2,60,3,1
+382,Kyogre,Kyogre,Sea Basin Pokemon,water,,4.5,352,3,1
+383,Groudon,Groudon,Continent Pokemon,ground,,3.5,950,3,1
+384,Rayquaza,Rayquaza,Sky High Pokemon,dragon,flying,7,206.5,3,1
+385,Jirachi,Jirachi,Wish Pokemon,steel,psychic,0.3,1.1,3,1
+386,Deoxys,Deoxys,DNA Pokemon,psychic,,1.7,60.8,3,1
+387,Turtwig,Naetle,Tiny Leaf Pokemon,grass,,0.4,10.2,4,0
+388,Grotle,Hayashigame,Grove Pokemon,grass,,1.1,97,4,0
+389,Torterra,Dodaitose,Continent Pokemon,grass,ground,2.2,310,4,0
+390,Chimchar,Hikozaru,Chimp Pokemon,fire,,0.5,6.2,4,0
+391,Monferno,Moukazaru,Playful Pokemon,fire,fighting,0.9,22,4,0
+392,Infernape,Goukazaru,Flame Pokemon,fire,fighting,1.2,55,4,0
+393,Piplup,Pochama,Penguin Pokemon,water,,0.4,5.2,4,0
+394,Prinplup,Pottaishi,Penguin Pokemon,water,,0.8,23,4,0
+395,Empoleon,Emperte,Emperor Pokemon,water,steel,1.7,84.5,4,0
+396,Starly,Mukkuru,Starling Pokemon,normal,flying,0.3,2,4,0
+397,Staravia,Mukubird,Starling Pokemon,normal,flying,0.6,15.5,4,0
+398,Staraptor,Mukuhawk,Predator Pokemon,normal,flying,1.2,24.9,4,0
+399,Bidoof,Bippa,Plump Mouse Pokemon,normal,,0.5,20,4,0
+400,Bibarel,Beadaru,Beaver Pokemon,normal,water,1,31.5,4,0
+401,Kricketot,Korobohshi,Cricket Pokemon,bug,,0.3,2.2,4,0
+402,Kricketune,Korotock,Cricket Pokemon,bug,,1,25.5,4,0
+403,Shinx,Kolink,Flash Pokemon,electric,,0.5,9.5,4,0
+404,Luxio,Luxio,Spark Pokemon,electric,,0.9,30.5,4,0
+405,Luxray,Rentorar,Gleam Eyes Pokemon,electric,,1.4,42,4,0
+406,Budew,Subomie,Bud Pokemon,grass,poison,0.2,1.2,4,0
+407,Roserade,Roserade,Bouquet Pokemon,grass,poison,0.9,14.5,4,0
+408,Cranidos,Zugaidos,Head Butt Pokemon,rock,,0.9,31.5,4,0
+409,Rampardos,Rampald,Head Butt Pokemon,rock,,1.6,102.5,4,0
+410,Shieldon,Tatetops,Shield Pokemon,rock,steel,0.5,57,4,0
+411,Bastiodon,Torideps,Shield Pokemon,rock,steel,1.3,149.5,4,0
+412,Burmy,Minomucchi,Bagworm Pokemon,bug,,0.2,3.4,4,0
+413,Wormadam,Minomadam,Bagworm Pokemon,bug,grass,0.5,6.5,4,0
+414,Mothim,Gamale,Moth Pokemon,bug,flying,0.9,23.3,4,0
+415,Combee,Mitsuhoney,Tiny Bee Pokemon,bug,flying,0.3,5.5,4,0
+416,Vespiquen,Beequen,Beehive Pokemon,bug,flying,1.2,38.5,4,0
+417,Pachirisu,Pachirisu,EleSquirrel Pokemon,electric,,0.4,3.9,4,0
+418,Buizel,Buoysel,Sea Weasel Pokemon,water,,0.7,29.5,4,0
+419,Floatzel,Floazel,Sea Weasel Pokemon,water,,1.1,33.5,4,0
+420,Cherubi,Cherinbo,Cherry Pokemon,grass,,0.4,3.3,4,0
+421,Cherrim,Cherrim,Blossom Pokemon,grass,,0.5,9.3,4,0
+422,Shellos,Karanakushi,Sea Slug Pokemon,water,,0.3,6.3,4,0
+423,Gastrodon,Tritodon,Sea Slug Pokemon,water,ground,0.9,29.9,4,0
+424,Ambipom,Eteboth,Long Tail Pokemon,normal,,1.2,20.3,4,0
+425,Drifloon,Fuwante,Balloon Pokemon,ghost,flying,0.4,1.2,4,0
+426,Drifblim,Fuwaride,Blimp Pokemon,ghost,flying,1.2,15,4,0
+427,Buneary,Mimirol,Rabbit Pokemon,normal,,0.4,5.5,4,0
+428,Lopunny,Mimilop,Rabbit Pokemon,normal,,1.2,33.3,4,0
+429,Mismagius,Mumargi,Magical Pokemon,ghost,,0.9,4.4,4,0
+430,Honchkrow,Dongkarasu,Big Boss Pokemon,dark,flying,0.9,27.3,4,0
+431,Glameow,Nyarmar,Catty Pokemon,normal,,0.5,3.9,4,0
+432,Purugly,Bunyatto,Tiger Cat Pokemon,normal,,1,43.8,4,0
+433,Chingling,Lisyan,Bell Pokemon,psychic,,0.2,0.6,4,0
+434,Stunky,Skunpuu,Skunk Pokemon,poison,dark,0.4,19.2,4,0
+435,Skuntank,Skutank,Skunk Pokemon,poison,dark,1,38,4,0
+436,Bronzor,Dohmirror,Bronze Pokemon,steel,psychic,0.5,60.5,4,0
+437,Bronzong,Dohtakun,Bronze Bell Pokemon,steel,psychic,1.3,187,4,0
+438,Bonsly,Usohachi,Bonsai Pokemon,rock,,0.5,15,4,0
+439,Mime Jr.,Manene,Mime Pokemon,psychic,fairy,0.6,13,4,0
+440,Happiny,Pinpuku,Playhouse Pokemon,normal,,0.6,24.4,4,0
+441,Chatot,Perap,Music Note Pokemon,normal,flying,0.5,1.9,4,0
+442,Spiritomb,Mikaruge,Forbidden Pokemon,ghost,dark,1,108,4,0
+443,Gible,Fukamaru,Land Shark Pokemon,dragon,ground,0.7,20.5,4,0
+444,Gabite,Gabite,Cave Pokemon,dragon,ground,1.4,56,4,0
+445,Garchomp,Gaburias,Mach Pokemon,dragon,ground,1.9,95,4,0
+446,Munchlax,Gonbe,Big Eater Pokemon,normal,,0.6,105,4,0
+447,Riolu,Riolu,Emanation Pokemon,fighting,,0.7,20.2,4,0
+448,Lucario,Lucario,Aura Pokemon,fighting,steel,1.2,54,4,0
+449,Hippopotas,Hippopotas,Hippo Pokemon,ground,,0.8,49.5,4,0
+450,Hippowdon,Kabaldon,Heavyweight Pokemon,ground,,2,300,4,0
+451,Skorupi,Scorupi,Scorpion Pokemon,poison,bug,0.8,12,4,0
+452,Drapion,Dorapion,Ogre Scorp Pokemon,poison,dark,1.3,61.5,4,0
+453,Croagunk,Gureggru,Toxic Mouth Pokemon,poison,fighting,0.7,23,4,0
+454,Toxicroak,Dokurog,Toxic Mouth Pokemon,poison,fighting,1.3,44.4,4,0
+455,Carnivine,Muskippa,Bug Catcher Pokemon,grass,,1.4,27,4,0
+456,Finneon,Keikouo,Wing Fish Pokemon,water,,0.4,7,4,0
+457,Lumineon,Neolant,Neon Pokemon,water,,1.2,24,4,0
+458,Mantyke,Tamanta,Kite Pokemon,water,flying,1,65,4,0
+459,Snover,Yukikaburi,Frosted Tree Pokemon,grass,ice,1,50.5,4,0
+460,Abomasnow,Yukinooh,Frosted Tree Pokemon,grass,ice,2.2,135.5,4,0
+461,Weavile,Manyula,Sharp Claw Pokemon,dark,ice,1.1,34,4,0
+462,Magnezone,Jibacoil,Magnet Area Pokemon,electric,steel,1.2,180,4,0
+463,Lickilicky,Berobelt,Licking Pokemon,normal,,1.7,140,4,0
+464,Rhyperior,Dosidon,Drill Pokemon,ground,rock,2.4,282.8,4,0
+465,Tangrowth,Mojumbo,Vine Pokemon,grass,,2,128.6,4,0
+466,Electivire,Elekible,Thunderbolt Pokemon,electric,,1.8,138.6,4,0
+467,Magmortar,Booburn,Blast Pokemon,fire,,1.6,68,4,0
+468,Togekiss,Togekiss,Jubilee Pokemon,fairy,flying,1.5,38,4,0
+469,Yanmega,Megayanma,Ogre Darner Pokemon,bug,flying,1.9,51.5,4,0
+470,Leafeon,Leafia,Verdant Pokemon,grass,,1,25.5,4,0
+471,Glaceon,Glacia,Fresh Snow Pokemon,ice,,0.8,25.9,4,0
+472,Gliscor,Glion,Fang Scorp Pokemon,ground,flying,2,42.5,4,0
+473,Mamoswine,Mammoo,Twin Tusk Pokemon,ice,ground,2.5,291,4,0
+474,Porygon-Z,Porygon-z,Virtual Pokemon,normal,,0.9,34,4,0
+475,Gallade,Erureido,Blade Pokemon,psychic,fighting,1.6,52,4,0
+476,Probopass,Dainose,Compass Pokemon,rock,steel,1.4,340,4,0
+477,Dusknoir,Yonoir,Gripper Pokemon,ghost,,2.2,106.6,4,0
+478,Froslass,Yukimenoko,Snow Land Pokemon,ice,ghost,1.3,26.6,4,0
+479,Rotom,Rotom,Plasma Pokemon,electric,ghost,0.3,0.3,4,0
+480,Uxie,Yuxie,Knowledge Pokemon,psychic,,0.3,0.3,4,1
+481,Mesprit,Emrit,Emotion Pokemon,psychic,,0.3,0.3,4,1
+482,Azelf,Agnome,Willpower Pokemon,psychic,,0.3,0.3,4,1
+483,Dialga,Dialga,Temporal Pokemon,steel,dragon,5.4,683,4,1
+484,Palkia,Palkia,Spatial Pokemon,water,dragon,4.2,336,4,1
+485,Heatran,Heatran,Lava Dome Pokemon,fire,steel,1.7,430,4,1
+486,Regigigas,Regigigas,Colossal Pokemon,normal,,3.7,420,4,1
+487,Giratina,Giratina,Renegade Pokemon,ghost,dragon,4.5,750,4,1
+488,Cresselia,Cresselia,Lunar Pokemon,psychic,,1.5,85.6,4,1
+489,Phione,Phione,Sea Drifter Pokemon,water,,0.4,3.1,4,0
+490,Manaphy,Manaphy,Seafaring Pokemon,water,,0.3,1.4,4,1
+491,Darkrai,Darkrai,Pitch-Black Pokemon,dark,,1.5,50.5,4,1
+492,Shaymin,Shaymin,Gratitude Pokemon,grass,grass,0.2,2.1,4,1
+493,Arceus,Arceus,Alpha Pokemon,normal,,3.2,320,4,1
+494,Victini,Victini,Victory Pokemon,psychic,fire,0.4,4,5,1
+495,Snivy,Tsutarja,Grass Snake Pokemon,grass,,0.6,8.1,5,0
+496,Servine,Janovy,Grass Snake Pokemon,grass,,0.8,16,5,0
+497,Serperior,Jalorda,Regal Pokemon,grass,,3.3,63,5,0
+498,Tepig,Pokabu,Fire Pig Pokemon,fire,,0.5,9.9,5,0
+499,Pignite,Chaoboo,Fire Pig Pokemon,fire,fighting,1,55.5,5,0
+500,Emboar,Enbuoh,Mega Fire Pig Pokemon,fire,fighting,1.6,150,5,0
+501,Oshawott,Mijumaru,Sea Otter Pokemon,water,,0.5,5.9,5,0
+502,Dewott,Futachimaru,Discipline Pokemon,water,,0.8,24.5,5,0
+503,Samurott,Daikenki,Formidable Pokemon,water,,1.5,94.6,5,0
+504,Patrat,Minezumi,Scout Pokemon,normal,,0.5,11.6,5,0
+505,Watchog,Miruhog,Lookout Pokemon,normal,,1.1,27,5,0
+506,Lillipup,Yorterrie,Puppy Pokemon,normal,,0.4,4.1,5,0
+507,Herdier,Herderrie,Loyal Dog Pokemon,normal,,0.9,14.7,5,0
+508,Stoutland,Mooland,Big-Hearted Pokemon,normal,,1.2,61,5,0
+509,Purrloin,Choroneko,Devious Pokemon,dark,,0.4,10.1,5,0
+510,Liepard,Lepardas,Cruel Pokemon,dark,,1.1,37.5,5,0
+511,Pansage,Yanappu,Grass Monkey Pokemon,grass,,0.6,10.5,5,0
+512,Simisage,Yanakkie,Thorn Monkey Pokemon,grass,,1.1,30.5,5,0
+513,Pansear,Baoppu,High Temp Pokemon,fire,,0.6,11,5,0
+514,Simisear,Baokkie,Ember Pokemon,fire,,1,28,5,0
+515,Panpour,Hiyappu,Spray Pokemon,water,,0.6,13.5,5,0
+516,Simipour,Hiyakkie,Geyser Pokemon,water,,1,29,5,0
+517,Munna,Munna,Dream Eater Pokemon,psychic,,0.6,23.3,5,0
+518,Musharna,Musharna,Drowsing Pokemon,psychic,,1.1,60.5,5,0
+519,Pidove,Mamepato,Tiny Pigeon Pokemon,normal,flying,0.3,2.1,5,0
+520,Tranquill,Hatoboh,Wild Pigeon Pokemon,normal,flying,0.6,15,5,0
+521,Unfezant,Kenhallow,Proud Pokemon,normal,flying,1.2,29,5,0
+522,Blitzle,Shimama,Electrified Pokemon,electric,,0.8,29.8,5,0
+523,Zebstrika,Zebraika,Thunderbolt Pokemon,electric,,1.6,79.5,5,0
+524,Roggenrola,Dangoro,Mantle Pokemon,rock,,0.4,18,5,0
+525,Boldore,Gantle,Ore Pokemon,rock,,0.9,102,5,0
+526,Gigalith,Gigaiath,Compressed Pokemon,rock,,1.7,260,5,0
+527,Woobat,Koromori,Bat Pokemon,psychic,flying,0.4,2.1,5,0
+528,Swoobat,Kokoromori,Courting Pokemon,psychic,flying,0.9,10.5,5,0
+529,Drilbur,Mogurew,Mole Pokemon,ground,,0.3,8.5,5,0
+530,Excadrill,Doryuzu,Subterrene Pokemon,ground,steel,0.7,40.4,5,0
+531,Audino,Tabunne,Hearing Pokemon,normal,,1.1,31,5,0
+532,Timburr,Dokkorer,Muscular Pokemon,fighting,,0.6,12.5,5,0
+533,Gurdurr,Dotekkotsu,Muscular Pokemon,fighting,,1.2,40,5,0
+534,Conkeldurr,Roubushin,Muscular Pokemon,fighting,,1.4,87,5,0
+535,Tympole,Otamaro,Tadpole Pokemon,water,,0.5,4.5,5,0
+536,Palpitoad,Gamagaru,Vibration Pokemon,water,ground,0.8,17,5,0
+537,Seismitoad,Gamageroge,Vibration Pokemon,water,ground,1.5,62,5,0
+538,Throh,Nageki,Judo Pokemon,fighting,,1.3,55.5,5,0
+539,Sawk,Dageki,Karate Pokemon,fighting,,1.4,51,5,0
+540,Sewaddle,Kurumiru,Sewing Pokemon,bug,grass,0.3,2.5,5,0
+541,Swadloon,Kurumayu,Leaf-Wrapped Pokemon,bug,grass,0.5,7.3,5,0
+542,Leavanny,Hahakomori,Nurturing Pokemon,bug,grass,1.2,20.5,5,0
+543,Venipede,Fushide,Centipede Pokemon,bug,poison,0.4,5.3,5,0
+544,Whirlipede,Wheega,Curlipede Pokemon,bug,poison,1.2,58.5,5,0
+545,Scolipede,Pendror,Megapede Pokemon,bug,poison,2.5,200.5,5,0
+546,Cottonee,Monmen,Cotton Puff Pokemon,grass,fairy,0.3,0.6,5,0
+547,Whimsicott,Elfuun,Windveiled Pokemon,grass,fairy,0.7,6.6,5,0
+548,Petilil,Churine,Bulb Pokemon,grass,,0.5,6.6,5,0
+549,Lilligant,Dredear,Flowering Pokemon,grass,,1.1,16.3,5,0
+550,Basculin,Bassrao,Hostile Pokemon,water,,1,18,5,0
+551,Sandile,Meguroco,Desert Croc Pokemon,ground,dark,0.7,15.2,5,0
+552,Krokorok,Waruvile,Desert Croc Pokemon,ground,dark,1,33.4,5,0
+553,Krookodile,Waruvial,Intimidation Pokemon,ground,dark,1.5,96.3,5,0
+554,Darumaka,Darumakka,Zen Charm Pokemon,fire,,0.6,37.5,5,0
+555,Darmanitan,Hihidaruma,Blazing Pokemon,fire,fire,1.3,92.9,5,0
+556,Maractus,Maracacchi,Cactus Pokemon,grass,,1,28,5,0
+557,Dwebble,Ishizumai,Rock Inn Pokemon,bug,rock,0.3,14.5,5,0
+558,Crustle,Iwapalace,Stone Home Pokemon,bug,rock,1.4,200,5,0
+559,Scraggy,Zuruggu,Shedding Pokemon,dark,fighting,0.6,11.8,5,0
+560,Scrafty,Zuruzukin,Hoodlum Pokemon,dark,fighting,1.1,30,5,0
+561,Sigilyph,Symboler,Avianoid Pokemon,psychic,flying,1.4,14,5,0
+562,Yamask,Desumasu,Spirit Pokemon,ghost,,0.5,1.5,5,0
+563,Cofagrigus,Desukarn,Coffin Pokemon,ghost,,1.7,76.5,5,0
+564,Tirtouga,Protoga,Prototurtle Pokemon,water,rock,0.7,16.5,5,0
+565,Carracosta,Abagoura,Prototurtle Pokemon,water,rock,1.2,81,5,0
+566,Archen,Archen,First Bird Pokemon,rock,flying,0.5,9.5,5,0
+567,Archeops,Archeos,First Bird Pokemon,rock,flying,1.4,32,5,0
+568,Trubbish,Yabukuron,Trash Bag Pokemon,poison,,0.6,31,5,0
+569,Garbodor,Dustdas,Trash Heap Pokemon,poison,,1.9,107.3,5,0
+570,Zorua,Zorua,Tricky Fox Pokemon,dark,,0.7,12.5,5,0
+571,Zoroark,Zoroark,Illusion Fox Pokemon,dark,,1.6,81.1,5,0
+572,Minccino,Chillarmy,Chinchilla Pokemon,normal,,0.4,5.8,5,0
+573,Cinccino,Chillaccino,Scarf Pokemon,normal,,0.5,7.5,5,0
+574,Gothita,Gothimu,Fixation Pokemon,psychic,,0.4,5.8,5,0
+575,Gothorita,Gothimiru,Manipulate Pokemon,psychic,,0.7,18,5,0
+576,Gothitelle,Gothiruselle,Astral Body Pokemon,psychic,,1.5,44,5,0
+577,Solosis,Uniran,Cell Pokemon,psychic,,0.3,1,5,0
+578,Duosion,Doublan,Mitosis Pokemon,psychic,,0.6,8,5,0
+579,Reuniclus,Lanculus,Multiplying Pokemon,psychic,,1,20.1,5,0
+580,Ducklett,Koaruhie,Water Bird Pokemon,water,flying,0.5,5.5,5,0
+581,Swanna,Swanna,White Bird Pokemon,water,flying,1.3,24.2,5,0
+582,Vanillite,Vanipeti,Fresh Snow Pokemon,ice,,0.4,5.7,5,0
+583,Vanillish,Vanirich,Icy Snow Pokemon,ice,,1.1,41,5,0
+584,Vanilluxe,Baivanilla,Snowstorm Pokemon,ice,,1.3,57.5,5,0
+585,Deerling,Shikijika,Season Pokemon,normal,grass,0.6,19.5,5,0
+586,Sawsbuck,Mebukijika,Season Pokemon,normal,grass,1.9,92.5,5,0
+587,Emolga,Emonga,Sky Squirrel Pokemon,electric,flying,0.4,5,5,0
+588,Karrablast,Kaburumo,Clamping Pokemon,bug,,0.5,5.9,5,0
+589,Escavalier,Chevargo,Cavalry Pokemon,bug,steel,1,33,5,0
+590,Foongus,Tamagetake,Mushroom Pokemon,grass,poison,0.2,1,5,0
+591,Amoonguss,Morobareru,Mushroom Pokemon,grass,poison,0.6,10.5,5,0
+592,Frillish,Pururill,Floating Pokemon,water,ghost,1.2,33,5,0
+593,Jellicent,Burungel,Floating Pokemon,water,ghost,2.2,135,5,0
+594,Alomomola,Mamanbou,Caring Pokemon,water,,1.2,31.6,5,0
+595,Joltik,Bachuru,Attaching Pokemon,bug,electric,0.1,0.6,5,0
+596,Galvantula,Dentula,EleSpider Pokemon,bug,electric,0.8,14.3,5,0
+597,Ferroseed,Tesseed,Thorn Seed Pokemon,grass,steel,0.6,18.8,5,0
+598,Ferrothorn,Nutrey,Thorn Pod Pokemon,grass,steel,1,110,5,0
+599,Klink,Giaru,Gear Pokemon,steel,,0.3,21,5,0
+600,Klang,Gigiaru,Gear Pokemon,steel,,0.6,51,5,0
+601,Klinklang,Gigigiaru,Gear Pokemon,steel,,0.6,81,5,0
+602,Tynamo,Shibishirasu,EleFish Pokemon,electric,,0.2,0.3,5,0
+603,Eelektrik,Shibibeel,EleFish Pokemon,electric,,1.2,22,5,0
+604,Eelektross,Shibirudon,EleFish Pokemon,electric,,2.1,80.5,5,0
+605,Elgyem,Ligray,Cerebral Pokemon,psychic,,0.5,9,5,0
+606,Beheeyem,Ohbem,Cerebral Pokemon,psychic,,1,34.5,5,0
+607,Litwick,Hitomoshi,Candle Pokemon,ghost,fire,0.3,3.1,5,0
+608,Lampent,Lampler,Lamp Pokemon,ghost,fire,0.6,13,5,0
+609,Chandelure,Chandela,Luring Pokemon,ghost,fire,1,34.3,5,0
+610,Axew,Kibago,Tusk Pokemon,dragon,,0.6,18,5,0
+611,Fraxure,Onondo,Axe Jaw Pokemon,dragon,,1,36,5,0
+612,Haxorus,Ononokus,Axe Jaw Pokemon,dragon,,1.8,105.5,5,0
+613,Cubchoo,Kumasyun,Chill Pokemon,ice,,0.5,8.5,5,0
+614,Beartic,Tunbear,Freezing Pokemon,ice,,2.6,260,5,0
+615,Cryogonal,Freegeo,Crystallizing Pokemon,ice,,1.1,148,5,0
+616,Shelmet,Chobomaki,Snail Pokemon,bug,,0.4,7.7,5,0
+617,Accelgor,Agilder,Shell Out Pokemon,bug,,0.8,25.3,5,0
+618,Stunfisk,Maggyo,Trap Pokemon,ground,electric,0.7,11,5,0
+619,Mienfoo,Kojofu,Martial Arts Pokemon,fighting,,0.9,20,5,0
+620,Mienshao,Kojondo,Martial Arts Pokemon,fighting,,1.4,35.5,5,0
+621,Druddigon,Crimgan,Cave Pokemon,dragon,,1.6,139,5,0
+622,Golett,Gobit,Automaton Pokemon,ground,ghost,1,92,5,0
+623,Golurk,Goloog,Automaton Pokemon,ground,ghost,2.8,330,5,0
+624,Pawniard,Komatana,Sharp Blade Pokemon,dark,steel,0.5,10.2,5,0
+625,Bisharp,Kirikizan,Sword Blade Pokemon,dark,steel,1.6,70,5,0
+626,Bouffalant,Buffron,Bash Buffalo Pokemon,normal,,1.6,94.6,5,0
+627,Rufflet,Washibon,Eaglet Pokemon,normal,flying,0.5,10.5,5,0
+628,Braviary,Warrgle,Valiant Pokemon,normal,flying,1.5,41,5,0
+629,Vullaby,Valchai,Diapered Pokemon,dark,flying,0.5,9,5,0
+630,Mandibuzz,Vulgina,Bone Vulture Pokemon,dark,flying,1.2,39.5,5,0
+631,Heatmor,Kuitaran,Anteater Pokemon,fire,,1.4,58,5,0
+632,Durant,Aiant,Iron Ant Pokemon,bug,steel,0.3,33,5,0
+633,Deino,Monozu,Irate Pokemon,dark,dragon,0.8,17.3,5,0
+634,Zweilous,Dihead,Hostile Pokemon,dark,dragon,1.4,50,5,0
+635,Hydreigon,Sazandora,Brutal Pokemon,dark,dragon,1.8,160,5,0
+636,Larvesta,Merlarva,Torch Pokemon,bug,fire,1.1,28.8,5,0
+637,Volcarona,Ulgamoth,Sun Pokemon,bug,fire,1.6,46,5,0
+638,Cobalion,Cobalon,Iron Will Pokemon,steel,fighting,2.1,250,5,1
+639,Terrakion,Terrakion,Cavern Pokemon,rock,fighting,1.9,260,5,1
+640,Virizion,Virizion,Grassland Pokemon,grass,fighting,2,200,5,1
+641,Tornadus,Tornelos,Cyclone Pokemon,flying,,1.5,63,5,1
+642,Thundurus,Voltolos,Bolt Strike Pokemon,electric,flying,1.5,61,5,1
+643,Reshiram,Reshiram,Vast White Pokemon,dragon,fire,3.2,330,5,1
+644,Zekrom,Zekrom,Deep Black Pokemon,dragon,electric,2.9,345,5,1
+645,Landorus,Landlos,Abundance Pokemon,ground,flying,1.5,68,5,1
+646,Kyurem,Kyurem,Boundary Pokemon,dragon,ice,3,325,5,1
+647,Keldeo,Keldeo,Colt Pokemon,water,fighting,1.4,48.5,5,1
+648,Meloetta,Meloetta,Melody Pokemon,normal,psychic,0.6,6.5,5,1
+649,Genesect,Genesect,Paleozoic Pokemon,bug,steel,1.5,82.5,5,1
+650,Chespin,Harimaron,Spiky Nut Pokemon,grass,,0.4,9,6,0
+651,Quilladin,Hariborg,Spiny Armor Pokemon,grass,,0.7,29,6,0
+652,Chesnaught,Brigarron,Spiny Armor Pokemon,grass,fighting,1.6,90,6,0
+653,Fennekin,Fokko,Fox Pokemon,fire,,0.4,9.4,6,0
+654,Braixen,Tairenar,Fox Pokemon,fire,,1,14.5,6,0
+655,Delphox,Mahoxy,Fox Pokemon,fire,psychic,1.5,39,6,0
+656,Froakie,Keromatsu,Bubble Frog Pokemon,water,,0.3,7,6,0
+657,Frogadier,Gekogashira,Bubble Frog Pokemon,water,,0.6,10.9,6,0
+658,Greninja,Gekkouga,Ninja Pokemon,water,dark,1.5,40,6,0
+659,Bunnelby,Horubee,Digging Pokemon,normal,,0.4,5,6,0
+660,Diggersby,Horudo,Digging Pokemon,normal,ground,1,42.4,6,0
+661,Fletchling,Yayakoma,Tiny Robin Pokemon,normal,flying,0.3,1.7,6,0
+662,Fletchinder,Hinoyakoma,Ember Pokemon,fire,flying,0.7,16,6,0
+663,Talonflame,Fiarrow,Scorching Pokemon,fire,flying,1.2,24.5,6,0
+664,Scatterbug,Kofukimushi,Scatterdust Pokemon,bug,,0.3,2.5,6,0
+665,Spewpa,Kofuurai,Scatterdust Pokemon,bug,,0.3,8.4,6,0
+666,Vivillon,Viviyon,Scale Pokemon,bug,flying,1.2,17,6,0
+667,Litleo,Shishiko,Lion Cub Pokemon,fire,normal,0.6,13.5,6,0
+668,Pyroar,Kaenjishi,Royal Pokemon,fire,normal,1.5,81.5,6,0
+669,Flabébé,Flabebe,Single Bloom Pokemon,fairy,,0.1,0.1,6,0
+670,Floette,Floette,Fairy Pokemon,fairy,,0.2,0.9,6,0
+671,Florges,Florges,Garden Pokemon,fairy,,1.1,10,6,0
+672,Skiddo,Meecle,Mount Pokemon,grass,,0.9,31,6,0
+673,Gogoat,Gogoat,Mount Pokemon,grass,,1.7,91,6,0
+674,Pancham,Yancham,Playful Pokemon,fighting,,0.6,8,6,0
+675,Pangoro,Goronda,Daunting Pokemon,fighting,dark,2.1,136,6,0
+676,Furfrou,Trimmien,Poodle Pokemon,normal,,1.2,28,6,0
+677,Espurr,Nyasper,Restraint Pokemon,psychic,,0.3,3.5,6,0
+678,Meowstic,Nyaonix,Constraint Pokemon,psychic,,0.6,8.5,6,0
+679,Honedge,Hitotsuki,Sword Pokemon,steel,ghost,0.8,2,6,0
+680,Doublade,Nidangill,Sword Pokemon,steel,ghost,0.8,4.5,6,0
+681,Aegislash,Gillgard,Royal Sword Pokemon,steel,ghost,1.7,53,6,0
+682,Spritzee,Shushupu,Perfume Pokemon,fairy,,0.2,0.5,6,0
+683,Aromatisse,Frefuwan,Fragrance Pokemon,fairy,,0.8,15.5,6,0
+684,Swirlix,Peroppafu,Cotton Candy Pokemon,fairy,,0.4,3.5,6,0
+685,Slurpuff,Peroream,Meringue Pokemon,fairy,,0.8,5,6,0
+686,Inkay,Maaiika,Revolving Pokemon,dark,psychic,0.4,3.5,6,0
+687,Malamar,Calamanero,Overturning Pokemon,dark,psychic,1.5,47,6,0
+688,Binacle,Kametete,Two-Handed Pokemon,rock,water,0.5,31,6,0
+689,Barbaracle,Gamenodes,Collective Pokemon,rock,water,1.3,96,6,0
+690,Skrelp,Kuzumo,Mock Kelp Pokemon,poison,water,0.5,7.3,6,0
+691,Dragalge,Dramidoro,Mock Kelp Pokemon,poison,dragon,1.8,81.5,6,0
+692,Clauncher,Udeppou,Water Gun Pokemon,water,,0.5,8.3,6,0
+693,Clawitzer,Bloster,Howitzer Pokemon,water,,1.3,35.3,6,0
+694,Helioptile,Erikiteru,Generator Pokemon,electric,normal,0.5,6,6,0
+695,Heliolisk,Elezard,Generator Pokemon,electric,normal,1,21,6,0
+696,Tyrunt,Chigoras,Royal Heir Pokemon,rock,dragon,0.8,26,6,0
+697,Tyrantrum,Gachigoras,Despot Pokemon,rock,dragon,2.5,270,6,0
+698,Amaura,Amarus,Tundra Pokemon,rock,ice,1.3,25.2,6,0
+699,Aurorus,Amaruruga,Tundra Pokemon,rock,ice,2.7,225,6,0
+700,Sylveon,Nymphia,Intertwining Pokemon,fairy,,1,23.5,6,0
+701,Hawlucha,Luchabull,Wrestling Pokemon,fighting,flying,0.8,21.5,6,0
+702,Dedenne,Dedenne,Antenna Pokemon,electric,fairy,0.2,2.2,6,0
+703,Carbink,Melecie,Jewel Pokemon,rock,fairy,0.3,5.7,6,0
+704,Goomy,Numera,Soft Tissue Pokemon,dragon,,0.3,2.8,6,0
+705,Sliggoo,Numeil,Soft Tissue Pokemon,dragon,,0.8,17.5,6,0
+706,Goodra,Numelgon,Dragon Pokemon,dragon,,2,150.5,6,0
+707,Klefki,Cleffy,Key Ring Pokemon,steel,fairy,0.2,3,6,0
+708,Phantump,Bokurei,Stump Pokemon,ghost,grass,0.4,7,6,0
+709,Trevenant,Ohrot,Elder Tree Pokemon,ghost,grass,1.5,71,6,0
+710,Pumpkaboo,Bakeccha,Pumpkin Pokemon,ghost,grass,0.8,15,6,0
+711,Gourgeist,Pumpjin,Pumpkin Pokemon,ghost,grass,1.7,39,6,0
+712,Bergmite,Kachikohru,Ice Chunk Pokemon,ice,,1,99.5,6,0
+713,Avalugg,Crebase,Iceberg Pokemon,ice,,2,505,6,0
+714,Noibat,Onbat,Sound Wave Pokemon,flying,dragon,0.5,8,6,0
+715,Noivern,Onvern,Sound Wave Pokemon,flying,dragon,1.5,85,6,0
+716,Xerneas,Xerneas,Life Pokemon,fairy,,3,215,6,1
+717,Yveltal,Yveltal,Destruction Pokemon,dark,flying,5.8,203,6,1
+718,Zygarde,Zygarde,Order Pokemon,dragon,ground,5,284.6,6,1
+719,Diancie,Diancie,Jewel Pokemon,rock,fairy,0.7,8.8,6,1
+720,Hoopa,Hoopa,Mischief Pokemon,psychic,ghost,,,6,1
+721,Volcanion,Volcanion,Steam Pokemon,fire,water,1.7,195,6,1
+722,Rowlet,Mokuroh,Grass Quill Pokemon,grass,flying,0.3,1.5,7,0
+723,Dartrix,Fukuthrow,Blade Quill Pokemon,grass,flying,0.7,16,7,0
+724,Decidueye,Junaiper,Arrow Quill Pokemon,grass,ghost,1.6,36.6,7,0
+725,Litten,Nyabby,Fire Cat Pokemon,fire,,0.4,4.3,7,0
+726,Torracat,Nyaheat,Fire Cat Pokemon,fire,,0.7,25,7,0
+727,Incineroar,Gaogaen,Heel Pokemon,fire,dark,1.8,83,7,0
+728,Popplio,Ashimari,Sea Lion Pokemon,water,,0.4,7.5,7,0
+729,Brionne,Osyamari,Pop Star Pokemon,water,,0.6,17.5,7,0
+730,Primarina,Ashirene,Soloist Pokemon,water,fairy,1.8,44,7,0
+731,Pikipek,Tsutsukera,Woodpecker Pokemon,normal,flying,0.3,1.2,7,0
+732,Trumbeak,Kerarappa,Bugle Beak Pokemon,normal,flying,0.6,14.8,7,0
+733,Toucannon,Dodekabashi,Cannon Pokemon,normal,flying,1.1,26,7,0
+734,Yungoos,Youngoose,Loitering Pokemon,normal,,0.4,6,7,0
+735,Gumshoos,Dekagoose,Stakeout Pokemon,normal,,0.7,14.2,7,0
+736,Grubbin,Agojimushi,Larva Pokemon,bug,,0.4,4.4,7,0
+737,Charjabug,Dendimushi,Battery Pokemon,bug,electric,0.5,10.5,7,0
+738,Vikavolt,Kuwagannon,Stag Beetle Pokemon,bug,electric,1.5,45,7,0
+739,Crabrawler,Makenkani,Boxing Pokemon,fighting,,0.6,7,7,0
+740,Crabominable,Kekenkani,Woolly Crab Pokemon,fighting,ice,1.7,180,7,0
+741,Oricorio,Odoridori,Dancing Pokemon,fire,flying,0.6,3.4,7,0
+742,Cutiefly,Abuly,Bee Fly Pokemon,bug,fairy,0.1,0.2,7,0
+743,Ribombee,Aburibbon,Bee Fly Pokemon,bug,fairy,0.2,0.5,7,0
+744,Rockruff,Iwanko,Puppy Pokemon,rock,,0.5,9.2,7,0
+745,Lycanroc,Lugarugan,Wolf Pokemon,rock,,,,7,0
+746,Wishiwashi,Yowashi,Small Fry Pokemon,water,,0.2,0.3,7,0
+747,Mareanie,Hidoide,Brutal Star Pokemon,poison,water,0.4,8,7,0
+748,Toxapex,Dohidoide,Brutal Star Pokemon,poison,water,0.7,14.5,7,0
+749,Mudbray,Dorobanko,Donkey Pokemon,ground,,1,110,7,0
+750,Mudsdale,Banbadoro,Draft Horse Pokemon,ground,,2.5,920,7,0
+751,Dewpider,Shizukumo,Water Bubble Pokemon,water,bug,0.3,4,7,0
+752,Araquanid,Onishizukumo,Water Bubble Pokemon,water,bug,1.8,82,7,0
+753,Fomantis,Karikiri,Sickle Grass Pokemon,grass,,0.3,1.5,7,0
+754,Lurantis,Lalantes,Bloom Sickle Pokemon,grass,,0.9,18.5,7,0
+755,Morelull,Nemasyu,Illuminating Pokemon,grass,fairy,0.2,1.5,7,0
+756,Shiinotic,Mashade,Illuminating Pokemon,grass,fairy,1,11.5,7,0
+757,Salandit,Yatoumori,Toxic Lizard Pokemon,poison,fire,0.6,4.8,7,0
+758,Salazzle,Ennewt,Toxic Lizard Pokemon,poison,fire,1.2,22.2,7,0
+759,Stufful,Nuikoguma,Flailing Pokemon,normal,fighting,0.5,6.8,7,0
+760,Bewear,Kiteruguma,Strong Arm Pokemon,normal,fighting,2.1,135,7,0
+761,Bounsweet,Amakaji,Fruit Pokemon,grass,,0.3,3.2,7,0
+762,Steenee,Amamaiko,Fruit Pokemon,grass,,0.7,8.2,7,0
+763,Tsareena,Amajo,Fruit Pokemon,grass,,1.2,21.4,7,0
+764,Comfey,Cuwawa,Posy Picker Pokemon,fairy,,0.1,0.3,7,0
+765,Oranguru,Yareyuutan,Sage Pokemon,normal,psychic,1.5,76,7,0
+766,Passimian,Nagetukesaru,Teamwork Pokemon,fighting,,2,82.8,7,0
+767,Wimpod,Kosokumushi,Turn Tail Pokemon,bug,water,0.5,12,7,0
+768,Golisopod,Gusokumusha,Hard Scale Pokemon,bug,water,2,108,7,0
+769,Sandygast,Sunaba,Sand Heap Pokemon,ghost,ground,0.5,70,7,0
+770,Palossand,Sirodethna,Sand Castle Pokemon,ghost,ground,1.3,250,7,0
+771,Pyukumuku,Namakobushi,Sea Cucumber Pokemon,water,,0.3,1.2,7,0
+772,Type: Null,Type: Null,Synthetic Pokemon,normal,,1.9,120.5,7,0
+773,Silvally,Silvady,Synthetic Pokemon,normal,,2.3,100.5,7,0
+774,Minior,Meteno,Meteor Pokemon,rock,flying,0.3,40,7,0
+775,Komala,Nekkoara,Drowsing Pokemon,normal,,0.4,19.9,7,0
+776,Turtonator,Bakugames,Blast Turtle Pokemon,fire,dragon,2,212,7,0
+777,Togedemaru,Togedemaru,Roly-Poly Pokemon,electric,steel,0.3,3.3,7,0
+778,Mimikyu,Mimikkyu,Disguise Pokemon,ghost,fairy,0.2,0.7,7,0
+779,Bruxish,Hagigishiri,Gnash Teeth Pokemon,water,psychic,0.9,19,7,0
+780,Drampa,Jijilong,Placid Pokemon,normal,dragon,3,185,7,0
+781,Dhelmise,Dadarin,Sea Creeper Pokemon,ghost,grass,3.9,210,7,0
+782,Jangmo-o,Jyarako,Scaly Pokemon,dragon,,0.6,29.7,7,0
+783,Hakamo-o,Jyarango,Scaly Pokemon,dragon,fighting,1.2,47,7,0
+784,Kommo-o,Jyararanga,Scaly Pokemon,dragon,fighting,1.6,78.2,7,0
+785,Tapu Koko,Kapu-kokeko,Land Spirit Pokemon,electric,fairy,1.8,20.5,7,1
+786,Tapu Lele,Kapu-tetefu,Land Spirit Pokemon,psychic,fairy,1.2,18.6,7,1
+787,Tapu Bulu,Kapu-bulul,Land Spirit Pokemon,grass,fairy,1.9,45.5,7,1
+788,Tapu Fini,Kapu-rehire,Land Spirit Pokemon,water,fairy,1.3,21.2,7,1
+789,Cosmog,Cosmog,Nebula Pokemon,psychic,,0.2,0.1,7,1
+790,Cosmoem,Cosmovum,Protostar Pokemon,psychic,,0.1,999.9,7,1
+791,Solgaleo,Solgaleo,Sunne Pokemon,psychic,steel,3.4,230,7,1
+792,Lunala,Lunala,Moone Pokemon,psychic,ghost,4,120,7,1
+793,Nihilego,Uturoid,Parasite Pokemon,rock,poison,1.2,55.5,7,1
+794,Buzzwole,Massivoon,Swollen Pokemon,bug,fighting,2.4,333.6,7,1
+795,Pheromosa,Pheroache,Lissome Pokemon,bug,fighting,1.8,25,7,1
+796,Xurkitree,Denjyumoku,Glowing Pokemon,electric,,3.8,100,7,1
+797,Celesteela,Tekkaguya,Launch Pokemon,steel,flying,9.2,999.9,7,1
+798,Kartana,Kamiturugi,Drawn Sword Pokemon,grass,steel,0.3,0.1,7,1
+799,Guzzlord,Akuziking,Junkivore Pokemon,dark,dragon,5.5,888,7,1
+800,Necrozma,Necrozma,Prism Pokemon,psychic,,2.4,230,7,1
+801,Magearna,Magearna,Artificial Pokemon,steel,fairy,1,80.5,7,1
